@@ -6,6 +6,10 @@ Ce dernier a pour but de partager avec tous l'application Mauria ainsi que ses s
 
 Vous y retrouverez tous les informations pour, vous aussi, faire parti de l'aventure "Mauria"
 
+L'application étant composé de nombreux éléments, tout sera décrit le plus clairement possible pour permettre à tous de découvrir le coeur de Mauria.
+
+L'API utilisé par Mauria sera aussi disponible, permettant aux développeurs en herbe de découvrir le monde à travers des tests sur des vraies données !
+
 ---
 
 Mauria est une application mobile disponible sur [iOS](https://apps.apple.com/fr/app/mauria/id6444381612) et [Android](https://play.google.com/store/apps/details?id=io.ionic.mauria).
