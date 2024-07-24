@@ -26,7 +26,7 @@ Elle permet un accès rapide aux données étudiantes disponible sur l'ERP Aurio
 **Serveurs:** Express (NodeJS), Strapi (CMS)
 
 Mauria fonctionne comme ceci:
-![Structure de Mauria](https://raw.githubusercontent.com/MauriaApp/App/master/MauriaStruct.jpg)
+![Structure de Mauria](https://raw.githubusercontent.com/MauriaApp/App/master/MauriaStruct2.jpg)
 ## Contributions
 
 Les contributions sont les bienvenues!
