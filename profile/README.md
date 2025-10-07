@@ -19,7 +19,7 @@ Elle permet un accès rapide aux données étudiantes disponible sur l'ERP Aurio
 
 ## Technologies
 
-**Application:**:
+**Application:**
     - App: Ionic (React)
     - WebApp: React TS, Vite, Shadcn, TailwindCSS
 
@@ -47,6 +47,8 @@ Les guides pour contribuer au projet sont disponibles dans les repos propres aux
 - [@Louis Soltysiak](https://github.com/Dark-Louis)
 
 ## Captures d'écrans
+
+*De l'ancienne version ^^*
 
 .            |  .            |.            |  .            | .
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
