@@ -1,7 +1,8 @@
 
-# Mauria 
+# Mauria
 
-## Bienvenue sur le GitHub de Mauria !
+## Bienvenue sur le GitHub de Mauria
+
 Ce dernier a pour but de partager avec tous l'application Mauria ainsi que ses services.
 
 Vous y retrouverez tous les informations pour, vous aussi, faire parti de l'aventure "Mauria"
@@ -16,37 +17,37 @@ Mauria est une application mobile disponible sur [iOS](https://apps.apple.com/fr
 
 Elle permet un accès rapide aux données étudiantes disponible sur l'ERP Aurion (par Auriga) pour les étudiants JUNIA.
 
-
-
 ## Technologies
 
+**Application:**:
+    - App: Ionic (React)
+    - WebApp: React TS, Vite, Shadcn, TailwindCSS
 
-**Application:** Ionic (React), React
-
-**Serveur:** *voir le repo associé* 
+**Serveur:** Fastify TS, NodeJS
 
 Mauria fonctionne comme ceci:
-![Structure de Mauria](https://raw.githubusercontent.com/MauriaApp/App/master/MauriaStruct2.jpg)
+![Structure de Mauria](https://github.com/MauriaApp/.github/blob/main/profile/Mauria-stack.png)
+
 ## Contributions
 
 Les contributions sont les bienvenues!
 
 Ceci est un projet étudiant, et en tant qu'étudiant, l'aide est toujours un atout ^^
 
-Une contribution permet au projet d'avancer avec les idées de tous. 
+Une contribution permet au projet d'avancer avec les idées de tous.
 
 Si vous avez une idée sans pour autant avoir les connaissances permettant la réalisation, vous pouvez toujours l'expliquer clairement, avec des schémas par exemple.
 
 Les guides pour contribuer au projet sont disponibles dans les repos propres aux applications.
+
 ## Auteurs
 
 - [@Milo Montuori](https://www.github.com/MylowMntr)
 - [@Louis Lecouturier](https://www.github.com/LouisLecouturier)
-
-
+- [@Louis Soltysiak](https://github.com/Dark-Louis)
 
 ## Captures d'écrans
+
 .            |  .            |.            |  .            | .
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![aa](https://play-lh.googleusercontent.com/2ibzBjTCktOaHGWWHGq3Oj8x3L3OIhvlIUExQ9bYxUMGoK0RgNLPL3f67aoExv5X5Q)  |  ![aa](https://play-lh.googleusercontent.com/CqowCgtuh99Nnl2OSTaySW35h_axsad_pz72tgZxY_ePL4eGTdF4hl0hZCMBRZ50e0Y) | ![App Screenshot](https://play-lh.googleusercontent.com/HGsj1Gs7fn3W1yvHN5IzR4S_qWFKGmW_j_v6tD6Hv9NqCV4YdWsLi3K8sOuJGIvs5A) | ![App Screenshot](https://play-lh.googleusercontent.com/M77Jkz0zJM2XHETyB_J8lae-DzGEBQnRupVjWg_w2mdi1eJ0w5ayw_ajn15UAkbMSA) |![App Screenshot](https://play-lh.googleusercontent.com/c21Tx2PofYcO9Ckpv2FPRdNZdRgEwVyWzF_dBwHlC6bQw6CDQiW0Wp0vJYFcGeO6Qyc)
-
